@@ -16,3 +16,4 @@ variable "key" {
     description = "passing the values of inttance type"
   
 }
+
